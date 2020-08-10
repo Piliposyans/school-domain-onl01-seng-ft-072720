@@ -24,4 +24,3 @@ class School
     sorted
   end
 end
-© 2020 GitHub, Inc.
